@@ -7,6 +7,9 @@ Contributions are welcome, as are submissions of new scripts.
 
 ## Scripts
 
+### Check for AC actions with breakpoints enabled
+- **Description:** Grep inside the Assets folder for breakpoints that remain on.
+
 ### CheckCutsceneAutosave.cs
 - **Description:** Checks all cutscenes across the project to ensure that they have the autosave option enabled.
 - **Usage:** Opens an editor window with a button to check all scenes. Logs results to a file named `autosave_logs.txt`.
